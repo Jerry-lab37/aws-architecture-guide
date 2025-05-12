@@ -9,5 +9,7 @@ This repository contains a step-by-step guide for setting up a scalable AWS arch
 - Elastic File System (EFS)
 - RDS (MySQL)
 
+Download the guide: aws-architecture-guide
+
 ## Usage
 Use this guide to manually set up an AWS architecture for learning or testing purposes.
